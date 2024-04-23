@@ -32,8 +32,5 @@ $ cd expresso-saude-si-1
 
 ---
 
-by Juscelino Mamede 🎸
-
-JOHN 14:6 ✟
 
 
